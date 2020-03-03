@@ -5,10 +5,14 @@
     overflow: hidden;
 }
 .navigation{
-    width: 50%;
+    width: 400px;
     float: right;
     font-size: 18px;
     font-weight: 500;
+}
+.navbar{
+    width: 56%;
+    float: right;
 }
 .logo{
     float: left;
@@ -19,3 +23,14 @@
 .nav-link {
     margin-left: 20px;
 }
+ 
+.BuyNowButton{
+    background-color: black;
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: blanchedalmond;
+}
+.carousel-indicators li{
+    background-color: #FFBB24;
+}
+
