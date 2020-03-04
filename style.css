@@ -1,8 +1,10 @@
 .container{
     margin-top: 30px;
+    padding: 0px;
+    
 }
-.topside{
-    overflow: hidden;
+.header{
+    padding: 0px;
 }
 .navigation{
     width: 400px;
@@ -29,8 +31,42 @@
     padding: 10px 15px;
     border-radius: 10px;
     color: blanchedalmond;
+    border: none;
 }
 .carousel-indicators li{
     background-color: #FFBB24;
 }
-
+h1.smartphone {
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.carousel-control-prev-icon{
+    background-image: none;
+}
+.carousel-control-prev-icon{
+    background-image: none;
+}
+.carousel-control-next-icon {
+    background-image: none;
+}
+.card {
+    box-shadow: -9px -7px 55px -46px;
+    border: none;
+    border-radius: 10px;
+}
+.card-body{
+    text-align: center;
+}
+.card-footer {
+    padding: .75rem 1.25rem;
+    background-color:#fff;
+    border: none;
+    text-align: center;
+    margin-top: -15px;
+}
+.top_product{
+    padding: 15px;
+}
+.carousel-inner{
+    padding: 15px;
+}
